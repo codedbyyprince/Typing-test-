@@ -1,0 +1,21 @@
+📝 Typing Speed Test (Python CLI)
+
+A small, interactive command-line app to measure how fast and accurately you type.
+I built this as a quick project to sharpen my Python skills and logic-building ability through hands-on coding.
+
+🚀 Features
+
+Random sentence appears for you to type
+
+Tracks time taken and calculates Words Per Minute (WPM)
+
+Shows accuracy compared to the original text
+
+Simple terminal interface — no extra setup required
+
+🎯 Why This Project
+
+I create small, focused projects like this to improve my problem-solving mindset and become faster at writing clean Python code.
+This one was perfect for practicing timing, string handling, and basic math.
+
+⚡ How to Run
